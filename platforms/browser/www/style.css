@@ -1,0 +1,46 @@
+#header{
+	background-image: url(header.png); 
+	padding: 10px; 
+	width:100%; 
+	z-index:1000; 
+	position:fixed; 
+	height:40px;"
+}
+
+#footer{
+	border-top: 1px solid #ccc; 
+	bottom: 0; 
+	background-image: url(header.png);
+    height: 30px;
+    padding: 10px;
+    position: fixed;
+    top: auto;
+    width: 100%;
+    z-index: 101;
+}
+
+#content{
+	background-image: url(kayu.jpg); 
+	min-height: 1000px;
+	padding-top: 60px;
+}
+
+#mypanel5{
+	background-image: url(header.png);
+}
+
+#mypanel4{
+	background-image: url(header.png);
+}
+
+#mypanel3{
+	background-image: url(header.png);
+}
+
+#mypanel2{
+	background-image: url(header.png);
+}
+
+#mypanel1{
+	background-image: url(header.png);
+}
