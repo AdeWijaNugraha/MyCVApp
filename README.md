@@ -14,7 +14,6 @@ In your browser, open the file:
 
 Preview :
 
-<img src="https://github.com/AdeWijaNugraha/MyCVApp/blob/master/Screenshot/Screenshot_2017-11-27-08-36-28.png" width="250">
-<img src="https://github.com/AdeWijaNugraha/MyCVApp/blob/master/Screenshot/Screenshot_2017-11-27-08-36-33.png" width="250">
+<img src="https://github.com/AdeWijaNugraha/MyCVApp/blob/master/Screenshot/Screenshot_2017-11-27-08-36-28.png" width="250"> <img src="https://github.com/AdeWijaNugraha/MyCVApp/blob/master/Screenshot/Screenshot_2017-11-27-08-36-33.png" width="250">
 <img src="https://github.com/AdeWijaNugraha/MyCVApp/blob/master/Screenshot/Screenshot_2017-11-27-08-36-58.png" width="250">
 <img src="https://github.com/AdeWijaNugraha/MyCVApp/blob/master/Screenshot/Screenshot_2017-11-27-08-37-09.png" width="250">
